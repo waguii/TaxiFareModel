@@ -20,7 +20,7 @@ yapf
 gcsfs
 google-cloud-storage
 mlflow
-s3fs
+s3fs==2021.08.0
 
 # utilities
 six>=1.14
